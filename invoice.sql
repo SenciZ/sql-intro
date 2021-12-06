@@ -14,3 +14,4 @@ SELECT * FROM invoice;
 
 UPDATE invoice SET total = 24 WHERE invoice_id = 5;
 SELECT * FROM invoice;
+
